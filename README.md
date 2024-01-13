@@ -4,10 +4,15 @@
 
 O Hashzap é um aplicativo desenvolvido na linguagem [Python](https://www.python.org/) utilizando o framework [Flet](https://www.flet.dev) na Jornada Python pela [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
 O projeto consiste em um chat para rede interna com definição de nome de usuário e troca de mensagem com data e horário.
- 
+
+ <div align="center">
+
+  <img src="https://github.com/tarcisioalvesleop/hashzap/blob/main/assets/inicial.png" alt="Bem_vindo" >
+  <img src="https://github.com/tarcisioalvesleop/hashzap/blob/main/assets/chat.png" alt="chat" >
+<!--
 ![inicio](https://github.com/tarcisioalvesleop/hashzap/blob/main/assets/inicial.png) ![chat](https://github.com/tarcisioalvesleop/hashzap/blob/main/assets/chat.png)
-
-
+  --!>
+ </div>
 
 ### 📋 Pré-requisitos
 Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [Python](https://www.python.org/) e um editor de para trabalhar com o código como o [VS Code](https://code.visualstudio.com/).
